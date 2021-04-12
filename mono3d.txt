@@ -1,2 +1,0 @@
-Monocular 3D Object Detection for Autonomous Driving
-Orthographic Feature Transform for Monocular 3D Object Detection
